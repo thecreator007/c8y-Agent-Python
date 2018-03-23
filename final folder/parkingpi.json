@@ -1,0 +1,31 @@
+{
+		"name": "Ascendas International IT Park",
+		"externalname":"Ascendas_park",
+		"pitype":"c8y_serial",
+		"location": {
+			"lng":80.1275,
+      		"lat":12.9229
+		},
+		"sensors" : [
+			{
+			"name": "Ascendas Slot-A",
+			"trig": 18,
+         	"echo": 23
+		},
+		{
+			"name": "Ascendas Slot-B",
+			"trig": 8,
+         	"echo": 7
+		},
+		{
+			"name": "Ascendas Slot-C",
+			"trig": 12,
+         	"echo": 16
+		},
+		{
+			"name": "Ascendas Slot-D",
+			"trig": 21,
+         	"echo": 26
+		}
+		]
+	}

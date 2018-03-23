@@ -1,0 +1,26 @@
+{  
+      "name":"Raspberrypi",
+      "type":"c8y_Linux",
+      "c8y_IsDevice":{  
+
+      },
+      "com_cumulocity_model_Agent":{  
+
+      },
+      "c8y_SupportedOperations":[  
+         "c8y_RemoteAccessConnect",
+         "c8y_Restart",
+         "c8y_Firmware",
+         "c8y_Configuration",
+         "c8y_SoftwareList"
+      ],
+      "c8y_Position":{
+      "lng":80.24666860000002,
+      "lat":12.9858999
+   },
+      "c8y_Hardware":{  
+         "serialNumber":"serialNumber",
+         "model":"model",
+         "revision":"revision"
+      }
+   }   

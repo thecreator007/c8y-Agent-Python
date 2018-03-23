@@ -1,0 +1,8 @@
+
+{  
+  "name":"Distance sensor",
+  "type":"c8y_DistanceSensor",
+  "c8y_IsDevice":{  
+
+  }
+}
