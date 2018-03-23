@@ -9,4 +9,4 @@
   * This also send measurements to the c8y reading the value from the sensor using trig and echo pin and id (from the sendmeasure.json which is auto-generated) file
   
   
- #You can Modify the PI name child devices numbers while you make change in the parkingpi.json file as your wish :)
+ # You can Modify the PI name child devices numbers while you make change in the parkingpi.json file as your wish :)
